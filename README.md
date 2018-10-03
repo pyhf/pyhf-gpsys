@@ -3,6 +3,8 @@
 ![Alt text](img/gpsys.png?raw=true "Title")
 
 
+evaluations provided as (sample bin, ) + alpha-vector + (delta, )
+
 ```json
 samplespec = {
     "name": "hello",
@@ -13,7 +15,7 @@ samplespec = {
         "type": "gpsys",
         "data": {
             "kernel": "rbf_constant",
-            "evals": [ #(sample bin, alphaval, delta)
+            "evals": [
                  [ 3, 0.5,-1.0, 15.0],
                  [ 5,-0.2, 0.8, 10.0],
                  [ 0,-1.0,-0.2, 20.0],
