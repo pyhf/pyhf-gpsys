@@ -1,6 +1,6 @@
 # Gaussian Process based interpolators for HistFactory (pyhf)
 
-![Image of Yaktocat](img/gpsys.png)
+![Alt text](img/gpsys.png?raw=true "Title")
 
 
 ```
