@@ -1,5 +1,8 @@
 # Gaussian Process based interpolators for HistFactory (pyhf)
 
+![Image of Yaktocat](img/gpsys.png)
+
+
 ```
 samplespec = {
     'name': 'hello',
@@ -22,3 +25,4 @@ samplespec = {
     ]
 }
 ```
+
