@@ -3,7 +3,7 @@
 ![Alt text](img/gpsys.png?raw=true "Title")
 
 
-```
+```json
 samplespec = {
     'name': 'hello',
     'data': [0,0,0,0,0,0],
