@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lukasheinrich/pyhf-gpsys/binder?filepath=GPModifier.ipynb)
 
 ![Alt text](img/gpsys.png?raw=true "Title")
-![Alt text](img/gpsys_multichannel.png?raw=true "Title")
+![Alt text](img/pyhf_gp.gif?raw=true "Title")
 
 
 evaluations provided as (sample bin, ) + alpha-vector + (delta, )
