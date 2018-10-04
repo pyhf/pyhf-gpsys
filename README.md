@@ -1,6 +1,7 @@
 # Gaussian Process based interpolators for HistFactory (pyhf)
 
 ![Alt text](img/gpsys.png?raw=true "Title")
+![Alt text](img/gpsys_multichannel.png?raw=true "Title")
 
 
 evaluations provided as (sample bin, ) + alpha-vector + (delta, )
