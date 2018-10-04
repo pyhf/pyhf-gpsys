@@ -1,5 +1,7 @@
 # Gaussian Process based interpolators for HistFactory (pyhf)
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/lukasheinrich/pyhf-gpsys/binder?filepath=GPModifier.ipynb)
+
 ![Alt text](img/gpsys.png?raw=true "Title")
 ![Alt text](img/gpsys_multichannel.png?raw=true "Title")
 
