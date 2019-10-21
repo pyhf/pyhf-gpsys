@@ -132,5 +132,5 @@ uproot-methods==0.1.2
 urllib3==1.23
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 widgetsnbextension==3.4.2
