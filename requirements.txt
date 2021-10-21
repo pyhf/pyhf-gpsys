@@ -10,7 +10,7 @@ attrs==18.2.0
 awkward==0.0.9
 azure-datalake-store==0.0.31
 azure-nspkg==2.0.0
-Babel==2.6.0
+Babel==2.9.1
 backcall==0.1.0
 bleach==3.3.0
 boto3==1.9.6
